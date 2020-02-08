@@ -1,4 +1,4 @@
-# worldsofjava
+# Worlds of Java
 student project
 
 
