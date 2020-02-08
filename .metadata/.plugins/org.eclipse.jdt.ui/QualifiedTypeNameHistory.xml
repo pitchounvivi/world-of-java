@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="fr.masociete.worldofjava.database.Connexion"/>
+    <fullyQualifiedTypeName name="fr.masociete.worldofjava.dto.Joueur"/>
+    <fullyQualifiedTypeName name="fr.masociete.worldofjava.database.JoueurServices"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="fr.masociete.worldofjava.cartejeu.dto.Cellule"/>
+    <fullyQualifiedTypeName name="fr.masociete.worldofjava.cartejeu.services.CarteJeuLoad"/>
+    <fullyQualifiedTypeName name="fr.masociete.worldofjava.singleton.EventSingleton"/>
+    <fullyQualifiedTypeName name="fr.masociete.worldofjava.cartejeu.dto.Tuile"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.awt.Toolkit"/>
+    <fullyQualifiedTypeName name="fr.masociete.worldofjava.personnage.mouvement.PersonnageMouvement"/>
+    <fullyQualifiedTypeName name="fr.masociete.worldofjava.singleton.CarteJeuManager"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="javax.swing.JLabel"/>
+    <fullyQualifiedTypeName name="java.awt.BorderLayout"/>
+    <fullyQualifiedTypeName name="fr.masociete.worldofjava.database.services.JoueurServices"/>
+    <fullyQualifiedTypeName name="fr.masociete.worldofjava.joueur.dto.Joueur"/>
+    <fullyQualifiedTypeName name="java.awt.Dimension"/>
+    <fullyQualifiedTypeName name="fr.masociete.worldofjava.mainpane.WestPanel"/>
+    <fullyQualifiedTypeName name="fr.masociete.worldofjava.constante.WorldOfJavaConstante"/>
+    <fullyQualifiedTypeName name="fr.masociete.worldofjava.dto.Personnage"/>
+    <fullyQualifiedTypeName name="fr.masociete.worldofjava.singleton.PersonnageManager"/>
+    <fullyQualifiedTypeName name="java.awt.Component"/>
+    <fullyQualifiedTypeName name="javax.swing.JComponent"/>
+    <fullyQualifiedTypeName name="fr.masociete.worldofjava.singleton.JoueurManager"/>
+    <fullyQualifiedTypeName name="fr.masociete.worldofjava.services.mouvement.Mouvement"/>
+</qualifiedTypeNameHistroy>

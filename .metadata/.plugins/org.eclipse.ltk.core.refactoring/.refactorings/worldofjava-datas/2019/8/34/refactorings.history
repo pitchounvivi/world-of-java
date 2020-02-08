@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;worldofjava.properties&apos; to &apos;worldofjava-datas&apos;" description="Move &apos;worldofjava.properties&apos; to &apos;worldofjava-datas&apos;" destination="/worldofjava-datas" element1="/worldofjava-core/worldofjava.properties" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1566746937886" updateReferences="true"/>
+</session>

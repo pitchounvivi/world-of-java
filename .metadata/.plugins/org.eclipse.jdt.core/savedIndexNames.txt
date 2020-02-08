@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+/home/eric/Bureau/M2i/M2iFormationJava/Aurélie/9-worldofjava-jdk12-workspaceAurelie/.metadata/.plugins/org.eclipse.jdt.core
+1420446564.index
+927571308.index
+10982405.index
+99498092.index
+3739146276.index
+1257492864.index
+3401843691.index
+1266410566.index
