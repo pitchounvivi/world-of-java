@@ -21,7 +21,7 @@
 
 	<properties>
 		<postgresql.version>42.2.1</postgresql.version>
-		<c3p0.version>0.9.5.2</c3p0.version>
+		<c3p0.version>0.9.5.4</c3p0.version>
 	</properties>
 
 	<dependencies>
